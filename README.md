@@ -3,7 +3,7 @@
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
-- [comp1234 Notes](https://github.com/israelabiola/gbc/commit/2a7fb3b632b8c0e21c4084545502c9c296fe4503
+- [Comp1234 Notes](https://github.com/israelabiola/gbc/bio/main/comp128.md
 
 ## My Weekly Schedules
 # Monday
