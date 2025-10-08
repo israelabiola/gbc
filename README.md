@@ -24,5 +24,5 @@
 - 01:00 - Maths for Comt Tech (https://learn.georgebrown.ca/d2l/home/400008)
 
 # Friday
--10:00 - Computer Logic (https://learn.georgebrown.ca/d2l/home/416378)
--12:00 - Intro to college comm (https://learn.georgebrown.ca/d2l/home/397514)
+- 10:00 - Computer Logic (https://learn.georgebrown.ca/d2l/home/416378)
+- 12:00 - Intro to college comm (https://learn.georgebrown.ca/d2l/home/397514)
